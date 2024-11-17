@@ -2,6 +2,8 @@
 
 ## Aim: 
 To perform a study on Socket Programming
+## Name: THEJASWINI D
+## Reg. No: 212223110059
 ## Introduction:
 
  	Socket programming is a crucial aspect of network communication, allowing for data exchange between computers over a network. It forms the backbone of various networked applications, enabling communication between clients and servers. This study explores the fundamental concepts of socket programming, its use cases, and provides a practical example to demonstrate its implementation.
